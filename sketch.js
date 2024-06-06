@@ -1,3 +1,5 @@
+//-------->LINK A VIDEO EXPLICATIVO: https://youtu.be/UQ3mCKWnjsE
+
 let trazos = [];
 let cantidadTrazos = 13;
 let previousMouseX;
